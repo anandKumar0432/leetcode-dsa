@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0011-container-with-most-water) |
 | [0141-linked-list-cycle](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0142-linked-list-cycle-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0908-middle-of-the-linked-list) |
 ## Greedy
 |  |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0908-middle-of-the-linked-list) |
@@ -94,4 +96,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
