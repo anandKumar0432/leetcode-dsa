@@ -35,12 +35,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0410-split-array-largest-sum) |
+| [2032-largest-odd-number-in-string](https://github.com/anandKumar0432/leetcode-dsa/tree/master/2032-largest-odd-number-in-string) |
 ## String
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0008-string-to-integer-atoi) |
 | [0022-generate-parentheses](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0151-reverse-words-in-a-string) |
+| [2032-largest-odd-number-in-string](https://github.com/anandKumar0432/leetcode-dsa/tree/master/2032-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0050-powx-n) |
+| [2032-largest-odd-number-in-string](https://github.com/anandKumar0432/leetcode-dsa/tree/master/2032-largest-odd-number-in-string) |
 ## Recursion
 |  |
 | ------- |
