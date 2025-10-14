@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0205-isomorphic-strings) |
 | [2032-largest-odd-number-in-string](https://github.com/anandKumar0432/leetcode-dsa/tree/master/2032-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0160-intersection-of-two-linked-lists) |
+| [0205-isomorphic-strings](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0205-isomorphic-strings) |
 ## Stack
 |  |
 | ------- |
