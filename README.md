@@ -76,12 +76,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0050-powx-n) |
 | [2032-largest-odd-number-in-string](https://github.com/anandKumar0432/leetcode-dsa/tree/master/2032-largest-odd-number-in-string) |
+| [2050-count-good-numbers](https://github.com/anandKumar0432/leetcode-dsa/tree/master/2050-count-good-numbers) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0234-palindrome-linked-list) |
+| [2050-count-good-numbers](https://github.com/anandKumar0432/leetcode-dsa/tree/master/2050-count-good-numbers) |
 ## Prefix Sum
 |  |
 | ------- |
