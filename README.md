@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0242-valid-anagram) |
 | [2032-largest-odd-number-in-string](https://github.com/anandKumar0432/leetcode-dsa/tree/master/2032-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0242-valid-anagram) |
 ## Stack
 |  |
 | ------- |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0148-sort-list) |
+| [0242-valid-anagram](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0242-valid-anagram) |
 ## Merge Sort
 |  |
 | ------- |
