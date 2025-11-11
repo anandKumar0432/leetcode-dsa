@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0039-combination-sum) |
+| [0048-rotate-image](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0189-rotate-array) |
 | [2032-largest-odd-number-in-string](https://github.com/anandKumar0432/leetcode-dsa/tree/master/2032-largest-odd-number-in-string) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0240-search-a-2d-matrix-ii) |
