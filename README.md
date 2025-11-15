@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0410-split-array-largest-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0907-koko-eating-bananas](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/anandKumar0432/leetcode-dsa/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/anandKumar0432/leetcode-dsa/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0410-split-array-largest-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0560-subarray-sum-equals-k) |
 ## Matrix
 |  |
 | ------- |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0451-sort-characters-by-frequency) |
+| [0560-subarray-sum-equals-k](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0560-subarray-sum-equals-k) |
 ## Stack
 |  |
 | ------- |
