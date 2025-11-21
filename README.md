@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0022-generate-parentheses) |
+| [0118-pascals-triangle](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0118-pascals-triangle) |
 | [0410-split-array-largest-sum](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0410-split-array-largest-sum) |
 ## Backtracking
 |  |
