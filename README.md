@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0283-move-zeroes) |
 | [0908-middle-of-the-linked-list](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0908-middle-of-the-linked-list) |
+| [2396-strictly-palindromic-number](https://github.com/anandKumar0432/leetcode-dsa/tree/master/2396-strictly-palindromic-number) |
 ## Greedy
 |  |
 | ------- |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0189-rotate-array) |
 | [2032-largest-odd-number-in-string](https://github.com/anandKumar0432/leetcode-dsa/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/anandKumar0432/leetcode-dsa/tree/master/2050-count-good-numbers) |
+| [2396-strictly-palindromic-number](https://github.com/anandKumar0432/leetcode-dsa/tree/master/2396-strictly-palindromic-number) |
 ## Recursion
 |  |
 | ------- |
@@ -307,4 +309,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0232-implement-queue-using-stacks) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/anandKumar0432/leetcode-dsa/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
