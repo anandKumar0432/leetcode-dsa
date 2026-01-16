@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0189-rotate-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0240-search-a-2d-matrix-ii) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0004-median-of-two-sorted-arrays) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0148-sort-list](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0148-sort-list) |
+| [0215-kth-largest-element-in-an-array](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0240-search-a-2d-matrix-ii) |
 ## Linked List
 |  |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0148-sort-list) |
+| [0215-kth-largest-element-in-an-array](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0451-sort-characters-by-frequency) |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
 |  |
@@ -331,4 +335,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/anandKumar0432/leetcode-dsa/tree/master/2396-strictly-palindromic-number) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
