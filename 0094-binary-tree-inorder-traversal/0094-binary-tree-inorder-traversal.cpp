@@ -29,24 +29,60 @@
 // };
 
 // -----------Iteratively using one stack---------------
+// class Solution {
+// public:
+//     vector<int> inorderTraversal(TreeNode* root) {
+//         stack<TreeNode*> st;
+//         vector<int> inorder;
+//         TreeNode* node = root;
+//         while(true){
+//             if(node != NULL){
+//                 st.push(node);
+//                 node = node->left;
+//             }else{
+//                 if(st.empty()) break;
+//                 node = st.top();
+//                 st.pop();
+//                 inorder.push_back(node->val);
+//                 node = node->right;
+//             }
+//         }
+//         return inorder;
+//     }
+// };
+
+// -------------Morris Order Traversal -----------------
 class Solution {
 public:
+
+    TreeNode* predecessor(TreeNode* curr){
+        TreeNode* pred = curr->left;
+        while(pred->right != NULL && pred->right != curr){
+            pred = pred->right;
+        }
+        return pred;
+    }
     vector<int> inorderTraversal(TreeNode* root) {
-        stack<TreeNode*> st;
-        vector<int> inorder;
-        TreeNode* node = root;
-        while(true){
-            if(node != NULL){
-                st.push(node);
-                node = node->left;
-            }else{
-                if(st.empty()) break;
-                node = st.top();
-                st.pop();
-                inorder.push_back(node->val);
-                node = node->right;
+        vector<int> res;
+        TreeNode* curr = root;
+        
+        while(curr != NULL){
+            if(curr->left == NULL){
+                res.push_back(curr->val);
+                curr = curr->right;
+            }
+            else{
+                TreeNode* pred = predecessor(curr);
+                if(pred->right == NULL){
+                    pred->right = curr;
+                    curr = curr->left;
+                }else{
+                    pred->right = nullptr;
+                    res.push_back(curr->val);
+                    curr = curr->right;
+                }
             }
         }
-        return inorder;
+        return res;
     }
 };
