@@ -18,6 +18,7 @@ public:
         solve(root->left, k, st, res);
         if(st.find(k - root->val) != st.end()){
             res = true;
+            return;
         }else{
             st.insert(root->val);
         }
