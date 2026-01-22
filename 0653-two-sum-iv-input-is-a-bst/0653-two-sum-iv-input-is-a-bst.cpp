@@ -11,23 +11,18 @@
  */
 class Solution {
 public:
-    void solve(TreeNode* root, int &k, set<int>& st, bool& res){
+    bool solve(TreeNode* root, int &k, set<int>& st){
         if(root == nullptr){
-            return;
+            return false;
         }
-        solve(root->left, k, st, res);
         if(st.find(k - root->val) != st.end()){
-            res = true;
-            return;
-        }else{
-            st.insert(root->val);
+            return true;
         }
-        solve(root->right, k, st, res);
+        st.insert(root->val);
+        return solve(root->left, k, st) || solve(root->right, k, st);
     }
     bool findTarget(TreeNode* root, int k) {
         set<int> st;
-        bool res = false;
-        solve(root, k, st, res);
-        return res;
+        return solve(root, k, st);
     }
 };
