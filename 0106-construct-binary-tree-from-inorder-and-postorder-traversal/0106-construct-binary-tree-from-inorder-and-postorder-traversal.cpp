@@ -15,7 +15,7 @@ public:
         for(int i=0; i<n; i++){
             if(inorder[i] == element)
                 return i;
-        }        
+        }
         return -1;
     }
     TreeNode* construct(vector<int>& inorder, vector<int>& postorder, int &index, int inorderStart, int inorderEnd, int n){
