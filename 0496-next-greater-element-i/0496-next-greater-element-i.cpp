@@ -16,7 +16,6 @@ public:
             if(n == res.size())
                 res.push_back(-1);
         }
-
         return res;
     }
 };
