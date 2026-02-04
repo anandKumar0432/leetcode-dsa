@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0733-flood-fill) |
 | [0907-koko-eating-bananas](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0907-koko-eating-bananas) |
+| [0994-rotting-oranges](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/anandKumar0432/leetcode-dsa/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/anandKumar0432/leetcode-dsa/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/anandKumar0432/leetcode-dsa/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0733-flood-fill](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0994-rotting-oranges) |
 | [2047-find-a-peak-element-ii](https://github.com/anandKumar0432/leetcode-dsa/tree/master/2047-find-a-peak-element-ii) |
 ## Divide and Conquer
 |  |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0733-flood-fill) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0994-rotting-oranges](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0994-rotting-oranges) |
 ## Binary Search Tree
 |  |
 | ------- |
