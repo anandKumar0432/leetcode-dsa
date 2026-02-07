@@ -21,7 +21,6 @@ public:
 
         while(!q.empty()){
             int size = q.size();
-            for(int i = 0; i<size; i++){
                 auto [r,c] = q.front();
                 q.pop();
                 for(int i = 0; i < 4; i++){
@@ -35,7 +34,6 @@ public:
                     }
                 }
             }
-        }
         return outMatrix;
     }
 };
