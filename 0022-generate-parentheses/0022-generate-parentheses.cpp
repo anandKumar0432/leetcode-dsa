@@ -23,7 +23,7 @@ public:
             }
             return;  
         }
-
+        
         str.push_back('(');
         solve(str, n);
         str.pop_back();
