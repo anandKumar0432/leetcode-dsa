@@ -1,6 +1,7 @@
 class Solution {
 public:
     void solve(vector<vector<char>>& board) {
+        if(board.empty()) return;
         int row = board.size();
         int col = board[0].size();
         vector<vector<int>> vis(row, vector<int>(col, 0));
