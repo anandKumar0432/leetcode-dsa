@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0090-subsets-ii) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0142-linked-list-cycle-ii) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0215-kth-largest-element-in-an-array) |
