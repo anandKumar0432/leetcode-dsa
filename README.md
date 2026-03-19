@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0451-sort-characters-by-frequency](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0812-rotate-string) |
+| [1021-remove-outermost-parentheses](https://github.com/anandKumar0432/leetcode-dsa/tree/master/1021-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/anandKumar0432/leetcode-dsa/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/anandKumar0432/leetcode-dsa/tree/master/2032-largest-odd-number-in-string) |
 ## Dynamic Programming
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0496-next-greater-element-i) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/anandKumar0432/leetcode-dsa/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1021-remove-outermost-parentheses](https://github.com/anandKumar0432/leetcode-dsa/tree/master/1021-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/anandKumar0432/leetcode-dsa/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Sorting
 |  |
