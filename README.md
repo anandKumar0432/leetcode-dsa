@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0075-sort-colors) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0455-assign-cookies) |
 | [2032-largest-odd-number-in-string](https://github.com/anandKumar0432/leetcode-dsa/tree/master/2032-largest-odd-number-in-string) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0022-generate-parentheses) |
+| [0055-jump-game](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0131-palindrome-partitioning) |
 | [0410-split-array-largest-sum](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0410-split-array-largest-sum) |
