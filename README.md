@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0131-palindrome-partitioning) |
 | [0410-split-array-largest-sum](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0410-split-array-largest-sum) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0189-rotate-array) |
 | [2032-largest-odd-number-in-string](https://github.com/anandKumar0432/leetcode-dsa/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/anandKumar0432/leetcode-dsa/tree/master/2050-count-good-numbers) |
@@ -418,4 +420,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0547-number-of-provinces) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
