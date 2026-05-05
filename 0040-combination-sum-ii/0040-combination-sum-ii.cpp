@@ -33,3 +33,29 @@ public:
         return result;
     }
 };
+
+
+
+
+
+
+
+// class Solution {
+// public:
+
+//     void solve(int start, vector<int> &candidates, int target, vector<int> &temp ){
+        
+        
+//     }
+//     vector<vector<int>> combinationSum2(vector<int>& candidates, int target) {
+       
+//     }
+// };
+
+
+
+
+
+
+
+
