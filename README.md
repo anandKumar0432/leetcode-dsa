@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/anandKumar0432/leetcode-dsa/tree/master/1020-number-of-enclaves) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/anandKumar0432/leetcode-dsa/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/anandKumar0432/leetcode-dsa/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1463-cherry-pickup-ii](https://github.com/anandKumar0432/leetcode-dsa/tree/master/1463-cherry-pickup-ii) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/anandKumar0432/leetcode-dsa/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/anandKumar0432/leetcode-dsa/tree/master/1646-kth-missing-positive-number) |
 | [2047-find-a-peak-element-ii](https://github.com/anandKumar0432/leetcode-dsa/tree/master/2047-find-a-peak-element-ii) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0410-split-array-largest-sum) |
 | [0542-01-matrix](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0542-01-matrix) |
 | [0931-minimum-falling-path-sum](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0931-minimum-falling-path-sum) |
+| [1463-cherry-pickup-ii](https://github.com/anandKumar0432/leetcode-dsa/tree/master/1463-cherry-pickup-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/anandKumar0432/leetcode-dsa/tree/master/1020-number-of-enclaves) |
+| [1463-cherry-pickup-ii](https://github.com/anandKumar0432/leetcode-dsa/tree/master/1463-cherry-pickup-ii) |
 | [2047-find-a-peak-element-ii](https://github.com/anandKumar0432/leetcode-dsa/tree/master/2047-find-a-peak-element-ii) |
 ## Divide and Conquer
 |  |
