@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0496-next-greater-element-i) |
 | [0542-01-matrix](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0542-01-matrix) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0213-house-robber-ii) |
 | [0410-split-array-largest-sum](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0542-01-matrix) |
 | [0931-minimum-falling-path-sum](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0931-minimum-falling-path-sum) |
 | [1463-cherry-pickup-ii](https://github.com/anandKumar0432/leetcode-dsa/tree/master/1463-cherry-pickup-ii) |
