@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0812-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/anandKumar0432/leetcode-dsa/tree/master/1021-remove-outermost-parentheses) |
+| [1143-longest-common-subsequence](https://github.com/anandKumar0432/leetcode-dsa/tree/master/1143-longest-common-subsequence) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/anandKumar0432/leetcode-dsa/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/anandKumar0432/leetcode-dsa/tree/master/2032-largest-odd-number-in-string) |
 ## Dynamic Programming
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0542-01-matrix) |
 | [0931-minimum-falling-path-sum](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0931-minimum-falling-path-sum) |
+| [1143-longest-common-subsequence](https://github.com/anandKumar0432/leetcode-dsa/tree/master/1143-longest-common-subsequence) |
 | [1463-cherry-pickup-ii](https://github.com/anandKumar0432/leetcode-dsa/tree/master/1463-cherry-pickup-ii) |
 ## Backtracking
 |  |
