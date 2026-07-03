@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0451-sort-characters-by-frequency](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0451-sort-characters-by-frequency) |
+| [0516-longest-palindromic-subsequence](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0516-longest-palindromic-subsequence) |
 | [0812-rotate-string](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0812-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/anandKumar0432/leetcode-dsa/tree/master/1021-remove-outermost-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/anandKumar0432/leetcode-dsa/tree/master/1143-longest-common-subsequence) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0542-01-matrix) |
 | [0931-minimum-falling-path-sum](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0931-minimum-falling-path-sum) |
