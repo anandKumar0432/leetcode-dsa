@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0451-sort-characters-by-frequency](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0516-longest-palindromic-subsequence) |
+| [0583-delete-operation-for-two-strings](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0583-delete-operation-for-two-strings) |
 | [0812-rotate-string](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0812-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/anandKumar0432/leetcode-dsa/tree/master/1021-remove-outermost-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/anandKumar0432/leetcode-dsa/tree/master/1143-longest-common-subsequence) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0542-01-matrix) |
+| [0583-delete-operation-for-two-strings](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0583-delete-operation-for-two-strings) |
 | [0931-minimum-falling-path-sum](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0931-minimum-falling-path-sum) |
 | [1143-longest-common-subsequence](https://github.com/anandKumar0432/leetcode-dsa/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/anandKumar0432/leetcode-dsa/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
