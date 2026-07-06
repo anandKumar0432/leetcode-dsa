@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0022-generate-parentheses) |
+| [0115-distinct-subsequences](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0151-reverse-words-in-a-string) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0120-triangle) |
 | [0131-palindrome-partitioning](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0131-palindrome-partitioning) |
