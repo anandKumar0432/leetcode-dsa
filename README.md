@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/anandKumar0432/leetcode-dsa/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/anandKumar0432/leetcode-dsa/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1463-cherry-pickup-ii](https://github.com/anandKumar0432/leetcode-dsa/tree/master/1463-cherry-pickup-ii) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/anandKumar0432/leetcode-dsa/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/anandKumar0432/leetcode-dsa/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/anandKumar0432/leetcode-dsa/tree/master/1646-kth-missing-positive-number) |
 | [2047-find-a-peak-element-ii](https://github.com/anandKumar0432/leetcode-dsa/tree/master/2047-find-a-peak-element-ii) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/anandKumar0432/leetcode-dsa/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/anandKumar0432/leetcode-dsa/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1463-cherry-pickup-ii](https://github.com/anandKumar0432/leetcode-dsa/tree/master/1463-cherry-pickup-ii) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/anandKumar0432/leetcode-dsa/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Backtracking
 |  |
 | ------- |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0368-largest-divisible-subset) |
 | [0451-sort-characters-by-frequency](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0455-assign-cookies) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/anandKumar0432/leetcode-dsa/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Merge Sort
 |  |
 | ------- |
