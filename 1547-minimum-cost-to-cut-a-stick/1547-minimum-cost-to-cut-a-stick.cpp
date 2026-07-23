@@ -44,15 +44,17 @@ public:
             mini = min(mini, temp);
         }
 
-        return dp[i][j] = mini == INT_MAX ? 0 : mini;
+        return dp[i][j] = mini;
     }
     int minCost(int n, vector<int>& cuts) {
         cuts.push_back(0);
         cuts.push_back(n);
+
         sort(cuts.begin(), cuts.end());
+
         int m = cuts.size();
         vector<vector<int>> dp(m, vector<int>(m, -1));
-        return solve(cuts, 0, m-1, dp);
 
+        return solve(cuts, 0, m-1, dp);
     }
 };
