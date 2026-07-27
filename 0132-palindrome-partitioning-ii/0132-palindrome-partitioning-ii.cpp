@@ -40,24 +40,38 @@ public:
     //     return dp[i][j] = mini;
     // }
 
+// ---------- Recursive(no TLE);
+    // int solve(string& s, int i, int n, vector<int>& dp){
+    //     if(i == n) return 0;
+        
+    //     if(dp[i] != -1) return dp[i];
+    //     int mini = INT_MAX;
+    //     for(int j=i; j<n; j++){
+    //         if(isPalindrome(s, i, j)){
+    //             int temp = 1 + solve(s, j+1, n, dp);
+    //             mini = min(mini, temp);
+    //         }
+    //     }
 
-    int solve(string& s, int i, int n, vector<int>& dp){
-        if(i == n) return 0;
-
-        if(dp[i] != -1) return dp[i];
-        int mini = INT_MAX;
-        for(int j=i; j<n; j++){
-            if(isPalindrome(s, i, j)){
-                int temp = 1 + solve(s, j+1, n, dp);
-                mini = min(mini, temp);
-            }
-        }
-
-        return dp[i] = mini;
-    }
+    //     return mini;
+    // }
     int minCut(string s) {
         int n = s.length();
-        vector<int> dp(n, -1);
-        return solve(s, 0, n, dp) - 1;
+        vector<int>dp (n+1, -1);
+        // return solve(s, 0, n, dp) - 1;
+
+        dp[n] = 0;
+        for(int i=n-1; i>=0; i--){
+            int mini = INT_MAX;
+            for(int j=i; j<n; j++){
+                if(isPalindrome(s, i, j)){
+                    int temp = 1 + dp[j+1];
+                    mini = min(mini, temp);
+                }
+            }
+            dp[i] = mini;
+        }
+
+        return dp[0] - 1;
     }
 };
