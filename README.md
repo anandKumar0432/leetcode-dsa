@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0368-largest-divisible-subset) |
 | [0410-split-array-largest-sum](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0416-partition-equal-subset-sum) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0455-assign-cookies](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0496-next-greater-element-i) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0242-valid-anagram) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0560-subarray-sum-equals-k) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0208-implement-trie-prefix-tree) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -468,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0222-count-complete-tree-nodes) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Union Find
 |  |
 | ------- |
