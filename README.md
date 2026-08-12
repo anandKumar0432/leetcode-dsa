@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/anandKumar0432/leetcode-dsa/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/anandKumar0432/leetcode-dsa/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/anandKumar0432/leetcode-dsa/tree/master/1646-kth-missing-positive-number) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/anandKumar0432/leetcode-dsa/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [2047-find-a-peak-element-ii](https://github.com/anandKumar0432/leetcode-dsa/tree/master/2047-find-a-peak-element-ii) |
 ## Two Pointers
 |  |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0208-implement-trie-prefix-tree) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/anandKumar0432/leetcode-dsa/tree/master/1707-maximum-xor-with-an-element-from-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -472,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0222-count-complete-tree-nodes) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/anandKumar0432/leetcode-dsa/tree/master/1707-maximum-xor-with-an-element-from-array) |
 ## Union Find
 |  |
 | ------- |
