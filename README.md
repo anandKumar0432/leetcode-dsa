@@ -547,4 +547,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0455-assign-cookies) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0518-coin-change-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
