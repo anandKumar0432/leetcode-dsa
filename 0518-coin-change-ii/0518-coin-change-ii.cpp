@@ -21,3 +21,43 @@ public:
         return solve(amount, coins, n-1, dp);
     }
 };
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// Not Wrorking -----------------
+// class Solution {
+// public:
+//     int change(int amount, vector<int>& coins) {
+//         int n = coins.size();
+//         vector<vector<long long>> dp(n, vector<long long> (amount+1, 0));
+        
+//         for(int i=0; i<n; i++){
+//             dp[i][0] = 1;
+//         }
+
+//         for(int i=0; i<n; i++){
+//             for(int tar = 1; tar <= amount; tar++) {
+//                 long long take = 0;
+//                 if(tar >= coins[i]) take = dp[i][tar-coins[i]];
+//                 long long notTake = (i > 0) ? dp[i-1][tar] : 0;
+
+//                 dp[i][tar] = take + notTake;
+//             }
+//         }
+
+//         return dp[n-1][amount];
+//     }
+// };
