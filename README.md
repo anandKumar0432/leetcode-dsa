@@ -555,4 +555,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0518-coin-change-ii](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0518-coin-change-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
