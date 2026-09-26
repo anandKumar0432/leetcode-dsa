@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0130-surrounded-regions) |
+| [0135-candy](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0162-find-peak-element) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0135-candy](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0135-candy) |
 | [0410-split-array-largest-sum](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0678-valid-parenthesis-string) |
