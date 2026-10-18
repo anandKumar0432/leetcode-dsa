@@ -9,23 +9,13 @@ public:
             a--; b--;
         }
         a=i; b=j;
-        while(a < n && b < n){
-            if(board[a][b] != '.') return false;
-            a++; b++;
-        }
-        a=i; b=j;
-        while(a < n && b >= 0){
-            if(board[a][b] != '.') return false;
-            a++; b--;
-        }
-        a=i; b=j;
         while(a >= 0 && b < n){
             if(board[a][b] != '.') return false;
             a--; b++;
         }
-        for(int k=0; k<n; k++){
+
+        for(int k=0; k<i; k++){
             if(board[k][j] != '.') return false;
-            if(board[i][k] != '.') return false;
         }
 
         return true;
