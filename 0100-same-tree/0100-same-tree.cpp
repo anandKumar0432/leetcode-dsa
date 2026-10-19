@@ -23,8 +23,8 @@ public:
             if(p->val != q->val)
                 flag = false;
             solve(p->left, q->left, flag);
-            solve(p->right, q->right, flag);       
-        }  
+            solve(p->right, q->right, flag); 
+        }
     }
     bool isSameTree(TreeNode* p, TreeNode* q) {
         bool flag = true;
