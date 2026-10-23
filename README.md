@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0332-reconstruct-itinerary](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0332-reconstruct-itinerary) |
 | [0368-largest-divisible-subset](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0368-largest-divisible-subset) |
 | [0410-split-array-largest-sum](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0416-partition-equal-subset-sum) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0332-reconstruct-itinerary](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0332-reconstruct-itinerary) |
 | [0451-sort-characters-by-frequency](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0583-delete-operation-for-two-strings) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0242-valid-anagram) |
+| [0332-reconstruct-itinerary](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0332-reconstruct-itinerary) |
 | [0368-largest-divisible-subset](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0451-sort-characters-by-frequency) |
@@ -373,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0215-kth-largest-element-in-an-array) |
+| [0332-reconstruct-itinerary](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0332-reconstruct-itinerary) |
 | [0451-sort-characters-by-frequency](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
 |  |
@@ -434,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0332-reconstruct-itinerary](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0332-reconstruct-itinerary) |
 | [0543-diameter-of-binary-tree](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -557,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0332-reconstruct-itinerary](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0332-reconstruct-itinerary) |
 | [0547-number-of-provinces](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0547-number-of-provinces) |
 ## Memoization
 |  |
@@ -614,4 +620,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0207-course-schedule) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0332-reconstruct-itinerary) |
+## Eulerian Path
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0332-reconstruct-itinerary) |
+## Semi-Eulerian Graph
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0332-reconstruct-itinerary) |
 <!---LeetCode Topics End-->
