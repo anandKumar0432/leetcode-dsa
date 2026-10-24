@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0332-reconstruct-itinerary) |
 | [0368-largest-divisible-subset](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0368-largest-divisible-subset) |
+| [0399-evaluate-division](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0399-evaluate-division) |
 | [0410-split-array-largest-sum](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0416-partition-equal-subset-sum) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0332-reconstruct-itinerary](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0332-reconstruct-itinerary) |
+| [0399-evaluate-division](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0399-evaluate-division) |
 | [0451-sort-characters-by-frequency](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0583-delete-operation-for-two-strings) |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0332-reconstruct-itinerary) |
+| [0399-evaluate-division](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0399-evaluate-division) |
 | [0543-diameter-of-binary-tree](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -490,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0399-evaluate-division](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0399-evaluate-division) |
 | [0542-01-matrix](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -552,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0130-surrounded-regions) |
+| [0399-evaluate-division](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/anandKumar0432/leetcode-dsa/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
@@ -563,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0332-reconstruct-itinerary) |
+| [0399-evaluate-division](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0547-number-of-provinces) |
 ## Memoization
 |  |
@@ -632,4 +638,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0332-reconstruct-itinerary) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0399-evaluate-division) |
+## Bellman–Ford Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0399-evaluate-division) |
+## Floyd–Warshall Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
