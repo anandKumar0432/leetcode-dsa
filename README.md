@@ -380,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0332-reconstruct-itinerary](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0332-reconstruct-itinerary) |
 | [0451-sort-characters-by-frequency](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0451-sort-characters-by-frequency) |
+| [0743-network-delay-time](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0743-network-delay-time) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -449,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0685-redundant-connection-ii) |
 | [0733-flood-fill](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0743-network-delay-time) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/anandKumar0432/leetcode-dsa/tree/master/1020-number-of-enclaves) |
 ## Binary Tree
@@ -503,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0685-redundant-connection-ii) |
 | [0733-flood-fill](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0743-network-delay-time) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/anandKumar0432/leetcode-dsa/tree/master/1020-number-of-enclaves) |
@@ -578,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0685-redundant-connection-ii) |
+| [0743-network-delay-time](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0743-network-delay-time) |
 ## Memoization
 |  |
 | ------- |
@@ -650,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0399-evaluate-division) |
+| [0743-network-delay-time](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0743-network-delay-time) |
 ## Bellman–Ford Algorithm
 |  |
 | ------- |
@@ -658,4 +663,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0399-evaluate-division) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
