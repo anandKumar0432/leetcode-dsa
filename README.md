@@ -447,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0685-redundant-connection-ii) |
 | [0733-flood-fill](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0733-flood-fill) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/anandKumar0432/leetcode-dsa/tree/master/1020-number-of-enclaves) |
@@ -500,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0685-redundant-connection-ii) |
 | [0733-flood-fill](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0733-flood-fill) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0994-rotting-oranges) |
@@ -561,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0685-redundant-connection-ii) |
 | [1020-number-of-enclaves](https://github.com/anandKumar0432/leetcode-dsa/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
@@ -574,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0685-redundant-connection-ii) |
 ## Memoization
 |  |
 | ------- |
