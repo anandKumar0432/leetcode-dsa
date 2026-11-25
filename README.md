@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0039-combination-sum) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0088-merge-sorted-array) |
