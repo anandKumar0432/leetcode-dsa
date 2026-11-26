@@ -453,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0685-redundant-connection-ii](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0685-redundant-connection-ii) |
 | [0733-flood-fill](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0743-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0785-is-graph-bipartite) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/anandKumar0432/leetcode-dsa/tree/master/1020-number-of-enclaves) |
 ## Binary Tree
@@ -508,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0685-redundant-connection-ii](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0685-redundant-connection-ii) |
 | [0733-flood-fill](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0743-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0785-is-graph-bipartite) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/anandKumar0432/leetcode-dsa/tree/master/1020-number-of-enclaves) |
@@ -569,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0685-redundant-connection-ii) |
+| [0785-is-graph-bipartite](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/anandKumar0432/leetcode-dsa/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
@@ -584,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0685-redundant-connection-ii) |
 | [0743-network-delay-time](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0743-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0785-is-graph-bipartite) |
 ## Memoization
 |  |
 | ------- |
@@ -670,4 +674,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0743-network-delay-time) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/anandKumar0432/leetcode-dsa/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
